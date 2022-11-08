@@ -1,3 +1,3 @@
-# Creating Fader Network using Teserflow
+# Creating Fader Network using Tenserflow
 
 
